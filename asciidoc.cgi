@@ -1,8 +1,9 @@
 #!/usr/bin/perl
 # Author: Alex Efros <powerman-asdf@yandex.ru>, 2007,2008,2011
+# Author: Andre Busche <andre.busche@gmx.de>, 2016
 # License: Public Domain
 #
-# asciidoc.cgi: View your AsciiDoc-formatted documentation in browser.
+# asciidoctor.cgi: View your AsciiDoctor-formatted documentation in browser.
 #
 # This script will automatically convert your *.txt files into *.html
 # on-the-fly when user send request to your website, so you can just
